@@ -70,7 +70,21 @@ body {
 
  }
 
- 
+
+ .users__model{
+
+
+	 border-radius: 10px;
+	 border-color: white;
+	 justify-content: center;
+
+ }
+ .content__model{
+	 width: 600px;
+
+	padding: 1em;
+
+ }
  footer {
 	display: flex;
 	flex-direction: column;
